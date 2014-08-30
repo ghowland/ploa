@@ -12,3 +12,7 @@ This is all purposefully low-tech because it makes it easier to share in a varie
 
 I will be pushing the final web pages to Amazon S3, which will host the website from a DNS backed bucket.
 
+Here is the first video:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/X0fhWTyhMkM" frameborder="0" allowfullscreen></iframe>
+
