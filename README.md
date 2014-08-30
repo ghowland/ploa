@@ -14,8 +14,6 @@ I will be pushing the final web pages to Amazon S3, which will host the website 
 
 Click here for the first video in the series:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/X0fhWTyhMkM" frameborder="0" allowfullscreen></iframe>
-
-[![ScreenShot](https://raw.github.com/ghowland/ploa/master/docs/images/ploa_000.png)](http://youtu.be/X0fhWTyhMkM)
+[![ScreenShot](https://raw.github.com/ghowland/ploa/master/docs/images/ploa_000b.png)](http://youtu.be/X0fhWTyhMkM)
 
 
