@@ -16,3 +16,5 @@ Here is the first video:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/X0fhWTyhMkM" frameborder="0" allowfullscreen></iframe>
 
+[![ScreenShot](https://raw.github.com/ghowland/ploa/docs/images/ploa_000.png)](http://youtu.be/X0fhWTyhMkM)
+
