@@ -12,8 +12,8 @@ This is all purposefully low-tech because it makes it easier to share in a varie
 
 I will be pushing the final web pages to Amazon S3, which will host the website from a DNS backed bucket.
 
-Click here for the first video in the series:
+Click here view the video series:
 
-[![ScreenShot](https://raw.github.com/ghowland/ploa/master/docs/images/ploa_000b.png)](http://youtu.be/X0fhWTyhMkM)
+[![ScreenShot](https://raw.github.com/ghowland/ploa/master/docs/images/ploa_000b.png)](https://www.youtube.com/watch?v=X0fhWTyhMkM&list=PLfXw4aB_ywoMFo8uXvRP8F2e7rVGNbHEW)
 
 
